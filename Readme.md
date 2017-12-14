@@ -1,4 +1,4 @@
-teste aliazzz isalalsGit Course
+versão 1.0.1 teste aliazzz isalalsGit Course
 
 Este é um repositório teste, para ensinar como o git funciona
 
